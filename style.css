@@ -1,0 +1,61 @@
+body {
+    background-image: url('image/3185113.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.3);
+    width: 350px;
+    margin: auto;
+ margin-top: 3cm;
+    border-radius: 15px;
+    }
+
+#name {
+    font-family: Inter;
+    font-size: 24px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+#location {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+    color: hsl(75, 94%, 57%);
+}
+#bio {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+img {
+    width: 3cm;
+    height: 3cm;
+    border-radius: 50%;
+}
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 17px;
+    display: block;
+    background-color: rgb(79, 79, 79);
+    border-radius: 10px;
+    padding: 10px; 
+    width: 200px;
+    margin: 4px auto;
+
+}
+
+ul { list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 7px;
+}
+
+

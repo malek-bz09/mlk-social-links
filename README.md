@@ -45,7 +45,7 @@ It’s super simple — no frameworks, no stress.
 
 ### 📱 Live Demo
 
-👉 [https://yourusername.github.io/maleks-social-links](https://yourusername.github.io/maleks-social-links)
+👉 [https://malek-bz09.github.io/mlk-social-links](https://malek-bz09.github.io/mlk-social-links)
 
 ---
 

@@ -53,7 +53,3 @@ It’s super simple — no frameworks, no stress.
 
 If you like it, **star** ⭐ the repo —
 it makes me code faster (scientifically proven 🧪).
-
----
-
-Would you like me to make a **more aesthetic version** (with emojis, colors, and Markdown styling like a pro portfolio readme)?
